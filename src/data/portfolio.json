@@ -1,0 +1,361 @@
+{
+  "profile": {
+    "name": "Nadiah Ajeng Widjayanti",
+    "role": "Informatics Student & Full Stack Developer",
+    "badge": "Active / Open for Opportunities",
+    "bio": "Active Informatics student at Telkom University with a strong passion for technology and problem-solving. A responsible, communicative, and adaptable individual who enjoys collaborating in teams, continuously learning new skills, and contributing meaningfully to every project and organization.",
+    "fullBio": [
+      "I am an undergraduate student in Informatics Engineering with a deep passion for building high-quality, scalable software. I view software engineering not just as writing code, but as crafting elegant, reliable systems that deliver exceptional user experiences.",
+      "My core expertise revolves around modern full-stack web development using Next.js App Router, React, TypeScript, and Tailwind CSS, complemented by relational database modeling and clean REST/GraphQL API integrations. I thrive in collaborative environments and am dedicated to writing maintainable, self-documenting code."
+    ],
+    "photoUrl": "/uploads/1783170503019-nadiahphoto.jpeg",
+    "cvUrl": "/uploads/1783169867284-nadiah_ajeng_widjayanti_cv.pdf",
+    "email": "ajengwidjayanti@gmail.com",
+    "github": "https://github.com/ndiahaw",
+    "linkedin": "https://www.linkedin.com/in/nadiahajengwidjayanti?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "location": "Indonesia (Open for Remote & Hybrid)"
+  },
+  "skills": [
+    {
+      "title": "Languages",
+      "category": "Languages",
+      "skills": [
+        {
+          "name": "TypeScript",
+          "category": "Languages",
+          "iconName": "Code2"
+        },
+        {
+          "name": "JavaScript ",
+          "category": "Languages",
+          "iconName": "FileCode"
+        },
+        {
+          "name": "Java",
+          "category": "Languages",
+          "iconName": "Coffee"
+        },
+        {
+          "name": "Python",
+          "category": "Languages",
+          "iconName": "Terminal"
+        },
+        {
+          "name": "C++",
+          "category": "Languages",
+          "iconName": "Cpu"
+        },
+        {
+          "name": "SQL",
+          "category": "Languages",
+          "iconName": "Database"
+        },
+        {
+          "name": "Go",
+          "category": "Languages",
+          "iconName": "Code"
+        }
+      ]
+    },
+    {
+      "title": "Frontend",
+      "category": "Frontend",
+      "skills": [
+        {
+          "name": "Next.js",
+          "category": "Frontend",
+          "iconName": "Globe"
+        },
+        {
+          "name": "React",
+          "category": "Frontend",
+          "iconName": "Atom"
+        },
+        {
+          "name": "Tailwind CSS v4",
+          "category": "Frontend",
+          "iconName": "Palette"
+        },
+        {
+          "name": "HTML5 / CSS3",
+          "category": "Frontend",
+          "iconName": "Layout"
+        },
+        {
+          "name": "Framer Motion",
+          "category": "Frontend",
+          "iconName": "Sparkles"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "category": "Backend",
+      "skills": [
+        {
+          "name": "Node.js",
+          "category": "Backend",
+          "iconName": "Server"
+        },
+        {
+          "name": "Express.js",
+          "category": "Backend",
+          "iconName": "Layers"
+        },
+        {
+          "name": "ElysiaJS",
+          "category": "Backend",
+          "iconName": "Sparkles"
+        },
+        {
+          "name": "Bun",
+          "category": "Backend",
+          "iconName": "Cpu"
+        }
+      ]
+    },
+    {
+      "title": "Database",
+      "category": "Database",
+      "skills": [
+        {
+          "name": "PostgreSQL",
+          "category": "Database",
+          "iconName": "HardDrive"
+        },
+        {
+          "name": "MySQL",
+          "category": "Database",
+          "iconName": "Database"
+        }
+      ]
+    },
+    {
+      "title": "Tools",
+      "category": "Tools",
+      "skills": [
+        {
+          "name": "Git",
+          "category": "Tools",
+          "iconName": "GitBranch"
+        },
+        {
+          "name": "GitHub",
+          "category": "Tools",
+          "iconName": "Github"
+        },
+        {
+          "name": "Docker",
+          "category": "Tools",
+          "iconName": "Box"
+        },
+        {
+          "name": "Figma",
+          "category": "Tools",
+          "iconName": "Figma"
+        },
+        {
+          "name": "VS Code",
+          "category": "Tools",
+          "iconName": "Code"
+        }
+      ]
+    },
+    {
+      "title": "Soft Skill",
+      "category": "Soft Skill",
+      "skills": [
+        {
+          "name": "Time Management",
+          "category": "Soft Skill",
+          "iconName": "TimeManagement"
+        },
+        {
+          "name": "Leadership",
+          "category": "Soft Skill",
+          "iconName": "Leadership"
+        },
+        {
+          "name": "Public Speaking",
+          "category": "Soft Skill",
+          "iconName": "PublicSpeaking"
+        },
+        {
+          "name": "Teamwork",
+          "category": "Soft Skill",
+          "iconName": "Teamwork"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "position": "Assitant Lecturer - Algorithm & Programming 2",
+      "organization": "Telkom University",
+      "date": "2026 - Present",
+      "location": "Telkom University",
+      "type": "work",
+      "description": [
+        "Evaluated and graded weekly programming assignments for 40+ undergraduate students with objective assessments and constructive feedback.",
+        "Conducted intensive review sessions (Responsi) and interactive mock tests before quizzes, Midterm (UTS), and Final Exams (UAS).",
+        "Strengthened students' understanding of core Algorithm and Programming concepts through structured academic guidance."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "position": "Tentor - Algorithm & Programming 2",
+      "organization": "Kontent",
+      "date": "2026 - Present",
+      "location": "Telkom University",
+      "type": "work",
+      "description": [
+        "Designed and distributed customized coding exercises and practice problems to prepare students for practical examinations and assessments.",
+        "Guided students in mastering topics including structures, subprograms (functions/procedures), and array manipulation.",
+        "Assisted students in debugging code, resolving programming logic errors, and improving problem-solving skills."
+      ]
+    },
+    {
+      "id": "exp-3",
+      "position": "Staff Ahli - Hubungan Mahasiswa",
+      "organization": "Himpunan Mahasiswa S1 Informatika Telkom University",
+      "date": "2026 - Present",
+      "location": "Telkom University",
+      "type": "organization",
+      "description": [
+        "Led the planning and execution of the First Meet orientation program as the Person in Charge (PIC) under the Hubungan Mahasiswa Division of HIMA IF.",
+        "Designed the event concept, theme, and program flow while collaborating with cross-functional committees to deliver an engaging introduction for new Informatics students.",
+        "Managed on-site event operations, coordinated team responsibilities, and ensured the successful execution of activities that fostered student engagement, collaboration, and a positive first impression of the Informatics community."
+      ]
+    },
+    {
+      "id": "exp-4",
+      "position": "Staff Muda - Hubungan Mahasiswa",
+      "organization": "Himpunan Mahasiswa S1 Informatika Telkom University",
+      "date": "2025 - 2026",
+      "location": "Telkom University",
+      "type": "organization",
+      "description": [
+        "Contributed as Staff Muda in the Hubungan Mahasiswa Division of HIMA IF and served as the Person in Charge (PIC) for the Calon Ketua Angkatan (Caketang) program, coordinating the planning and execution of the selection process.",
+        "Acted as the meeting secretary during the General Assembly, documenting discussions, decisions, and maintaining accurate administrative records.",
+        "Collaborated with senior staff to prepare the division's Accountability Report (LPJ), supporting organizational documentation and ensuring comprehensive reporting."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "TelEat",
+      "description": "TelEat adalah aplikasi pemesanan makanan berbasis web yang dirancang untuk mempermudah proses pemesanan makanan di kantin atau food court. Sistem ini memiliki tiga jenis pengguna, yaitu Pelanggan, Merchant, dan Admin.",
+      "fullDescription": "TelEat dikembangkan sebagai aplikasi web full-stack menggunakan Laravel dan React.js untuk mendigitalisasi proses pemesanan makanan di lingkungan kampus. Pelanggan dapat melihat menu, melakukan pemesanan dine-in maupun take-away, serta melakukan pembayaran secara online. Merchant dapat mengelola menu dan pesanan yang masuk, sedangkan Admin bertugas mengelola data pengguna serta melakukan konfirmasi pembayaran.",
+      "thumbnail": "/uploads/apk_teleat.png",
+      "banner": "/uploads/apk_teleat.png",
+      "techStack": [
+        "Laravel",
+        "React.js",
+        "MySQL",
+        "REST API",
+        "Midtrans API"
+      ],
+      "github": "https://github.com/shevlham/TelEat_TubesIMPAL",
+      "liveDemo": "https://github.com/ndiahaw",
+      "problem": "Proses pemesanan makanan di kantin masih dilakukan secara manual sehingga menyebabkan antrean panjang, pencatatan pesanan yang kurang efisien, serta kesulitan dalam mengelola transaksi.",
+      "solution": "Mengembangkan aplikasi pemesanan makanan berbasis web dengan sistem autentikasi berdasarkan peran pengguna, fitur pemesanan online, integrasi pembayaran digital, serta manajemen pesanan secara terpusat.",
+      "features": [
+        "Login dan autentikasi berdasarkan peran (Pelanggan, Merchant, Admin)",
+        "Melihat dan mencari menu makanan",
+        "Pemesanan makanan untuk dine-in maupun take-away",
+        "Keranjang belanja dan proses checkout",
+        "Integrasi pembayaran menggunakan Midtrans",
+        "Dashboard Merchant untuk mengelola menu dan pesanan",
+        "Dashboard Admin untuk mengelola pengguna dan konfirmasi pembayaran",
+        "Riwayat transaksi dan status pesanan"
+      ],
+      "featured": true
+    },
+    {
+      "id": "proj-2",
+      "title": "Aplikasi Prediksi Pembatalan Reservasi Hotel",
+      "description": "Aplikasi berbasis Python yang memprediksi kemungkinan pembatalan reservasi hotel menggunakan metode Fuzzy Logic berdasarkan data reservasi pelanggan.",
+      "fullDescription": "Aplikasi ini dikembangkan untuk membantu pihak hotel memprediksi kemungkinan pembatalan reservasi menggunakan metode Fuzzy Logic Mamdani dan Sugeno. Sistem memanfaatkan dataset nyata mengenai reservasi hotel untuk menghasilkan prediksi yang dapat digunakan sebagai dasar pengambilan keputusan dalam mengelola tingkat okupansi dan meminimalkan potensi kerugian.",
+      "thumbnail": "/uploads/apk_dka.png",
+      "banner": "/uploads/apk_dka.png",
+      "techStack": [
+        "Python",
+        "Streamlit",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ],
+      "github": "https://github.com/audyyla/DKA",
+      "liveDemo": "https://github.com/ndiahaw",
+      "problem": "Tingginya tingkat pembatalan reservasi menyebabkan hotel mengalami kesulitan dalam mengatur tingkat okupansi, alokasi kamar, serta potensi kehilangan pendapatan.",
+      "solution": "Mengimplementasikan metode Fuzzy Logic Mamdani dan Sugeno untuk menganalisis karakteristik reservasi dan memprediksi kemungkinan pembatalan sehingga pihak hotel dapat mengambil langkah antisipatif lebih awal.",
+      "features": [
+        "Prediksi kemungkinan pembatalan reservasi hotel",
+        "Implementasi metode Fuzzy Logic Mamdani dan Sugeno",
+        "Antarmuka interaktif menggunakan Streamlit",
+        "Visualisasi hasil prediksi",
+        "Analisis dan preprocessing dataset",
+        "Pengujian menggunakan dataset reservasi hotel nyata"
+      ],
+      "featured": true
+    },
+    {
+      "id": "proj-3",
+      "title": "Aplikasi Analisis Kompleksitas Algoritma Studi Kasus: Tower of Hanoi",
+      "description": "Aplikasi berbasis Python yang menganalisis kompleksitas algoritma rekursif pada permasalahan Tower of Hanoi melalui simulasi, visualisasi langkah, serta pengukuran waktu eksekusi.",
+      "fullDescription": "Aplikasi ini dikembangkan untuk membantu pengguna memahami konsep algoritma rekursif menggunakan studi kasus Tower of Hanoi. Sistem menampilkan simulasi perpindahan cakram, menghitung jumlah langkah yang dibutuhkan berdasarkan jumlah cakram, serta menganalisis kompleksitas waktu algoritma. Dengan antarmuka interaktif berbasis Streamlit, pengguna dapat mengeksplorasi hubungan antara jumlah cakram, waktu eksekusi, dan pertumbuhan kompleksitas algoritma secara lebih mudah.",
+      "thumbnail": "/uploads/apk_aka.png",
+      "banner": "/uploads/apk_aka.png",
+      "techStack": [
+        "Python",
+        "Streamlit"
+      ],
+      "github": "https://github.com/ndiahaw/tugasBesarAKAKelOmega",
+      "liveDemo": "https://github.com/ndiahaw",
+      "problem": "Konsep algoritma rekursif dan analisis kompleksitas sering kali sulit dipahami hanya melalui teori. Mahasiswa membutuhkan media interaktif yang dapat memperlihatkan proses eksekusi algoritma serta pertumbuhan kompleksitasnya secara visual.",
+      "solution": "Mengembangkan aplikasi interaktif berbasis Streamlit yang mensimulasikan penyelesaian Tower of Hanoi, menampilkan setiap langkah perpindahan cakram, menghitung jumlah langkah minimum, serta menganalisis kompleksitas waktu algoritma dengan pendekatan Big O.",
+      "features": [
+        "Simulasi penyelesaian Tower of Hanoi secara interaktif",
+        "Visualisasi langkah perpindahan cakram",
+        "Perhitungan jumlah langkah minimum (2ⁿ - 1)",
+        "Analisis kompleksitas waktu algoritma rekursif",
+        "Pengukuran waktu eksekusi berdasarkan jumlah cakram",
+        "Antarmuka interaktif menggunakan Streamlit"
+      ],
+      "featured": true
+    },
+    {
+      "id": "proj-4",
+      "title": "Personal Portfolio Website",
+      "description": "Website portfolio modern yang menampilkan profil, pengalaman, keterampilan, dan proyek dalam antarmuka yang responsif dengan performa tinggi menggunakan Next.js 15 App Router dan Tailwind CSS v4.",
+      "fullDescription": "Personal Portfolio Website merupakan platform yang saya kembangkan untuk memperkenalkan profil profesional, menampilkan pengalaman organisasi, keterampilan teknis, serta berbagai proyek yang pernah saya kerjakan. Website ini dibangun menggunakan Next.js 15 App Router dengan Tailwind CSS v4 untuk menghasilkan performa yang optimal, SEO-friendly, dan responsif di berbagai perangkat. Selain sebagai media personal branding, website ini juga menjadi tempat untuk mendokumentasikan perjalanan belajar dan perkembangan saya sebagai Software Engineer.",
+      "thumbnail": "/uploads/apk_porto.png",
+      "banner": "/uploads/apk_porto.png",
+      "techStack": [
+        "Next.js 15",
+        "React",
+        "TypeScript",
+        "Tailwind CSS v4",
+        "Framer Motion"
+      ],
+      "github": "https://github.com/ndiahaw/PORTOFOLIO",
+      "liveDemo": "https://github.com/ndiahaw/PORTOFOLIO",
+      "problem": "Recruiter dan kolaborator membutuhkan media yang dapat menampilkan profil, pengalaman, serta hasil proyek secara profesional, mudah diakses, dan memberikan kesan pertama yang baik.",
+      "solution": "Mengembangkan website portfolio modern yang menggabungkan desain yang bersih, navigasi intuitif, animasi interaktif, serta performa tinggi untuk menampilkan informasi dan proyek secara menarik.",
+      "features": [
+        "Responsive design untuk desktop, tablet, dan mobile",
+        "Interactive hero section dan smooth scrolling",
+        "Project showcase lengkap dengan detail teknologi",
+        "Experience, education, dan skills timeline",
+        "Dark mode dengan modern UI",
+        "SEO optimized menggunakan Next.js App Router",
+        "Fast loading dan optimized performance",
+        "Contact section dengan tautan ke GitHub, LinkedIn, dan Email"
+      ],
+      "featured": true
+    }
+  ],
+  "certificates": []
+}
